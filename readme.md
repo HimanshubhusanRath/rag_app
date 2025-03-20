@@ -1,4 +1,4 @@
-# RAG (Retreival-Augmented Generation)
+# RAG (Retrieval-Augmented Generation)
 RAG is a model architecture that combines retrieval-based methods with generative models. The idea is to use an external retrieval mechanism to fetch relevant documents or information from a large dataset (such as a knowledge base or the internet) and then use a generative model (like GPT) to generate more accurate, contextually relevant, and informative responses based on the retrieved information.
 
 ### How RAG works:
